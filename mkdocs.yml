@@ -1,0 +1,8 @@
+site_name: 韩昌黎文集
+nav:
+  - 简介: index.md
+  - 两次革命与两位宰相: 文/两次革命与两位宰相.md
+
+theme: readthedocs
+
+extra_javascript: ['https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML','js/mathjaxhelper.js']
